@@ -1,5 +1,5 @@
 /*	Author: basi001
- *  Partner(s) Name: Christopher Hyunh
+ *  Partner(s) Name: Christopher Huynh
  *	Lab Section:
  *	Assignment: Lab #  Exercise #
  *	Exercise Description: [optional - include for your own benefit]
